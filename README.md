@@ -6,4 +6,4 @@ Implementati in C sun Unix/Linux generatorul de parole
 <code>gcc break.c -lcrypt -o break</code>
 
 ## Run
-openssl passwd -6 <b>your_password</b> | ./break
+<code>openssl passwd -6 <b>your_password</b> | ./break</code>
