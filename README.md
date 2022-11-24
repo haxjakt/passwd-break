@@ -1,6 +1,6 @@
 # Lucrarea 5: Generator de parole
 ## Tema
-Implementati in C sun Unix/Linux generatorul de parole
+Implementati in C sau Unix/Linux generatorul de parole
 
 ## Compile
 <code>gcc break.c -lcrypt -o break</code>
