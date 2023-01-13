@@ -1,0 +1,2 @@
+#!/bin/sh
+openssl passwd -6 -salt xyz $1 > passwd

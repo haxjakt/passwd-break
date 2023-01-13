@@ -63,7 +63,7 @@ int main()
 	printf("start backtracking...\n");
 	if (bt(3, 0, sol))
 	{
-		printf("solution: %s", sol);
+		printf("solution: %s\n", sol);
 	}
 	free(sol);
 	return 0;
